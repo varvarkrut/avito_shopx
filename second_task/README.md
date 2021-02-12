@@ -11,7 +11,7 @@
 
 
 <h1>FYI: </h1>
-<p> Использовал python+pytest+selenium(Chrome вебдрайвер)</p>
+<p> Использовал python+pytest+selenium(<b>Chrome вебдрайвер</b>)</p>
 <h2>Команда для запуска:</h2>
 <p>pytest -v --tb=line --reruns 1 the_phone_field_is_empty.py</p>
 <h3>Дополнительные комментарии</h3>
