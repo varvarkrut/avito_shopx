@@ -11,7 +11,7 @@
 
 
 <h1> Пояснение к выполненному заданию: </h1>
-<p> Использовал python+pytest+selenium (из-за быстрой скорости разработки)</p>
+<p> Использовал python+pytest+selenium</p>
 <h2>Команда для запуска:</h2>
 <p>pytest -v --tb=line --reruns 1 the_phone_field_is_empty.py</p>
 <h3>Дополнительные комментарии</h3>
