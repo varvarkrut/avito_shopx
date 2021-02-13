@@ -13,8 +13,8 @@
 <h1>FYI: </h1>
 <p> Использовал python+pytest+selenium(<b>Chrome вебдрайвер</b>)</p>
 <h2>Как запустить:</h2>
-<p>1)Установить chrome webdriver</p>
-<p>2)pip install -r requirements.txt/p>
+<p>1)Установить chrome driver</p>
+<p>2)pip install -r requirements.txt</p>
 <p>3)pytest -v --tb=line --reruns 1 the_phone_field_is_empty.py</p>
 <h3>Дополнительные комментарии</h3>
 <p>Reruns использовал т.к. gui автотесты не всегда стабильны</p>
